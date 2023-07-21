@@ -3,7 +3,7 @@
     <title>I&#x27;m Win!</title>
     <link href="https://imwin.org/feed.xml" rel="self" />
     <link href="https://imwin.org" />
-    <updated>2023-07-22T02:53:33+08:00</updated>
+    <updated>2023-07-22T03:17:34+08:00</updated>
     <author>
         <name>Winrich</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://imwin.org/di-yi-pian-blog.html"/>
         <id>https://imwin.org/di-yi-pian-blog.html</id>
+            <category term="Blog"/>
 
-        <updated>2023-07-22T02:53:33+08:00</updated>
+        <updated>2023-07-22T03:17:34+08:00</updated>
             <summary>
                 <![CDATA[
                     
