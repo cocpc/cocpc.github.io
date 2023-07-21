@@ -3,22 +3,65 @@
     <title>I&#x27;m Win!</title>
     <link href="https://imwin.org/feed.xml" rel="self" />
     <link href="https://imwin.org" />
-    <updated>2023-07-22T03:17:34+08:00</updated>
+    <updated>2023-07-22T03:28:44+08:00</updated>
     <author>
         <name>Winrich</name>
     </author>
     <id>https://imwin.org</id>
 
     <entry>
-        <title>第一篇BLOG</title>
+        <title>trades</title>
         <author>
             <name>Winrich</name>
         </author>
-        <link href="https://imwin.org/di-yi-pian-blog.html"/>
-        <id>https://imwin.org/di-yi-pian-blog.html</id>
+        <link href="https://imwin.org/trades.html"/>
+        <id>https://imwin.org/trades.html</id>
+            <category term="Trades"/>
+
+        <updated>2023-07-22T03:28:44+08:00</updated>
+            <summary>
+                <![CDATA[
+                    trades
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>trades</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>blogdsfad</title>
+        <author>
+            <name>Winrich</name>
+        </author>
+        <link href="https://imwin.org/blog.html"/>
+        <id>https://imwin.org/blog.html</id>
             <category term="Blog"/>
 
-        <updated>2023-07-22T03:17:34+08:00</updated>
+        <updated>2023-07-22T03:28:40+08:00</updated>
+            <summary>
+                <![CDATA[
+                    blogt
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>blogt</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Winrich</name>
+        </author>
+        <link href="https://imwin.org/about.html"/>
+        <id>https://imwin.org/about.html</id>
+
+        <updated>2023-07-22T03:27:42+08:00</updated>
             <summary>
                 <![CDATA[
                     
