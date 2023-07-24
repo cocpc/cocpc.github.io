@@ -25,8 +25,8 @@
             "date_modified": "2023-07-22T03:28:44+08:00"
         },
         {
-            "id": "https://imwin.org/blog.html",
-            "url": "https://imwin.org/blog.html",
+            "id": "https://imwin.org/developing-my-own-trading-methodology-to-rejoin-futures-market.html",
+            "url": "https://imwin.org/developing-my-own-trading-methodology-to-rejoin-futures-market.html",
             "title": "Developing My Own Trading Methodology to Rejoin Futures Market",
             "summary": "I’m Winrich, 40 years old. I entered the futures market in 2008 but unfortunately encountered the subprime mortgage crisis. I then switched to run a clothing business for years. When the COVID-19 pandemic erupted in 2020, clothing orders dropped sharply, so I decided to return&hellip;",
             "content_html": "<p>I’m Winrich, 40 years old. I entered the futures market in 2008 but unfortunately encountered the subprime mortgage crisis. I then switched to run a clothing business for years. When the COVID-19 pandemic erupted in 2020, clothing orders dropped sharply, so I decided to return to the familiar futures market and trade using my self-developed trading methodology.</p>\n<h2 id=\"developing-cycle-trading-methodology\">Developing Cycle Trading Methodology</h2>\n<p>From operating the clothing business, I learned risk management and cost control skills. I applied these ideas to trading and devised the <strong>cycle trading methodology</strong>.</p>\n<p>Its <strong>core concepts</strong> are:</p>\n<ul>\n<li>Analyze historical price trends to determine market cycles</li>\n<li>Identify cycle multiple patterns</li>\n<li>Take corresponding trading strategies based on cycle analysis</li>\n</ul>\n<p>This trading methodology assisted me to rejoin futures trading and achieve steady profits.</p>\n<h2 id=\"success-stories\">Success Stories</h2>\n<p>Let me provide two examples to demonstrate applying the cycle trading methodology:</p>\n<h3 id=\"case-one-glass-futures-contract\">Case One: Glass Futures Contract</h3>\n<p>In spring 2020, with the benefits of COVID-19 and construction peak season, the glass 2009 contract price surged from CNY1820/ton to a historic high of CNY2450/ton. </p>\n<p>Based on cycle analysis, I went long around CNY2100 with about 70 tons. I timely locked profits when price hit CNY2450. By closing out positions at CNY2300 during the pullback, I gained about CNY350,000 in profits, around 1.75 times of the investment.</p>\n<h3 id=\"case-two-soda-ash-futures-contract\">Case Two: Soda Ash Futures Contract</h3>\n<p>In the first half of 2022, soda ash futures plunged from CNY6950/ton to a historic low of CNY2860/ton. I judged there was more room to fall and went short around CNY5500 with about 45 tons.</p>\n<p>After hitting the bottom at CNY2860, I covered positions at CNY3300 and obtained around CNY1.05 million in profits, about 3.5 times of the investment.</p>\n<h2 id=\"looking-ahead\">Looking Ahead</h2>\n<p>Looking forward, I will continue optimizing this trading methodology to pursue long-term steady profits. I will also share my trading insights continuously through my blog.</p>\n<p>Thank you for reading and I look forward to advancing together on this trading journey!</p>\n",
@@ -37,7 +37,7 @@
                    "Blog"
             ],
             "date_published": "2023-07-22T03:28:11+08:00",
-            "date_modified": "2023-07-22T06:56:44+08:00"
+            "date_modified": "2023-07-25T04:32:38+08:00"
         },
         {
             "id": "https://imwin.org/about.html",
@@ -51,7 +51,7 @@
             "tags": [
             ],
             "date_published": "2023-07-22T02:28:32+08:00",
-            "date_modified": "2023-07-22T03:27:42+08:00"
+            "date_modified": "2023-07-25T04:33:06+08:00"
         }
     ]
 }
