@@ -3,14 +3,14 @@
     <title>I&#x27;m Win!</title>
     <link href="https://imwin.org/feed.xml" rel="self" />
     <link href="https://imwin.org" />
-    <updated>2023-07-25T04:33:06+08:00</updated>
+    <updated>2023-07-25T07:52:14+08:00</updated>
     <author>
         <name>Winrich</name>
     </author>
     <id>https://imwin.org</id>
 
     <entry>
-        <title>trades</title>
+        <title>如果正确操作期货</title>
         <author>
             <name>Winrich</name>
         </author>
@@ -18,7 +18,7 @@
         <id>https://imwin.org/trades.html</id>
             <category term="Trades"/>
 
-        <updated>2023-07-22T03:28:44+08:00</updated>
+        <updated>2023-07-25T07:52:14+08:00</updated>
             <summary>
                 <![CDATA[
                     trades

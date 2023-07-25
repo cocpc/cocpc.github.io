@@ -12,7 +12,7 @@
         {
             "id": "https://imwin.org/trades.html",
             "url": "https://imwin.org/trades.html",
-            "title": "trades",
+            "title": "如果正确操作期货",
             "summary": "trades",
             "content_html": "<p>trades</p>\n",
             "author": {
@@ -22,7 +22,7 @@
                    "Trades"
             ],
             "date_published": "2023-07-22T03:28:27+08:00",
-            "date_modified": "2023-07-22T03:28:44+08:00"
+            "date_modified": "2023-07-25T07:52:14+08:00"
         },
         {
             "id": "https://imwin.org/developing-my-own-trading-methodology-to-rejoin-futures-market.html",
