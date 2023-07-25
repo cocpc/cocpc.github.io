@@ -25,8 +25,8 @@
             "date_modified": "2023-07-26T00:29:57+08:00"
         },
         {
-            "id": "https://imwin.org/trades.html",
-            "url": "https://imwin.org/trades.html",
+            "id": "https://imwin.org/ru-guo-zheng-que-cao-zuo-qi-huo.html",
+            "url": "https://imwin.org/ru-guo-zheng-que-cao-zuo-qi-huo.html",
             "title": "如果正确操作期货",
             "summary": "trades",
             "content_html": "<p>trades</p>\n",
@@ -37,7 +37,7 @@
                    "Trades"
             ],
             "date_published": "2023-07-22T03:28:27+08:00",
-            "date_modified": "2023-07-25T07:52:14+08:00"
+            "date_modified": "2023-07-26T04:43:54+08:00"
         },
         {
             "id": "https://imwin.org/developing-my-own-trading-methodology-to-rejoin-futures-market.html",
@@ -58,15 +58,15 @@
             "id": "https://imwin.org/about.html",
             "url": "https://imwin.org/about.html",
             "title": "About",
-            "summary": "\n  <div class=\"post__toc\">\n    <h3>fdafadfasdf<br>dfa<br><br></h3>\n    <ul>\n      \n    </ul>\n  </div>\n  \n<pre class=\"line-numbers  language-html\"><code>fadfadsfdsafadsvavdsafadfadsf</code></pre>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      \n    </div>\n  </div>\n",
-            "content_html": "\n  <div class=\"post__toc\">\n    <h3>fdafadfasdf<br>dfa<br><br></h3>\n    <ul>\n      \n    </ul>\n  </div>\n  \n<pre class=\"line-numbers  language-html\"><code>fadfadsfdsafadsvavdsafadfadsf</code></pre>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      \n    </div>\n  </div>\n\n\n  <ul>\n    <li>dcfsaf</li><li>adsfdsfas</li><li>fadsfasf</li><li>asdfasdf</li><li>asdfas</li><li><br></li>\n  </ul>\n<div>html  <html>\n\n</div>\n\n  <p>\n    dsfdasfdasfadsf<br>dasfadsfa<br>sdf<br>asdfas<br>\n  </p>",
+            "summary": "\n  <div class=\"post__toc\">\n    <h3>这是一个测试页面，还没有正式发布<br><br></h3>\n    <ul>\n      \n    </ul>\n  </div>\n  \n<pre class=\"line-numbers  language-html\"><code>fadfadsfdsafadsvavdsafadfadsf</code></pre>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      \n    </div>\n  </div>\n",
+            "content_html": "\n  <div class=\"post__toc\">\n    <h3>这是一个测试页面，还没有正式发布<br><br></h3>\n    <ul>\n      \n    </ul>\n  </div>\n  \n<pre class=\"line-numbers  language-html\"><code>fadfadsfdsafadsvavdsafadfadsf</code></pre>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      \n    </div>\n  </div>\n\n\n  <ul>\n    <li>dcfsaf</li><li>adsfdsfas</li><li>fadsfasf</li><li>asdfasdf</li><li>asdfas</li><li><br></li>\n  </ul>\n<div>html  <html>\n\n</div>\n\n  <p>\n    dsfdasfdasfadsf<br>dasfadsfa<br>sdf<br>asdfas<br>\n  </p>",
             "author": {
                 "name": "Winrich"
             },
             "tags": [
             ],
             "date_published": "2023-07-22T02:28:32+08:00",
-            "date_modified": "2023-07-25T04:33:06+08:00"
+            "date_modified": "2023-07-26T04:43:23+08:00"
         }
     ]
 }

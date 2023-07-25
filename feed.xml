@@ -3,7 +3,7 @@
     <title>I&#x27;m Win!</title>
     <link href="https://imwin.org/feed.xml" rel="self" />
     <link href="https://imwin.org" />
-    <updated>2023-07-26T00:29:57+08:00</updated>
+    <updated>2023-07-26T04:43:54+08:00</updated>
     <author>
         <name>Winrich</name>
     </author>
@@ -125,11 +125,11 @@
         <author>
             <name>Winrich</name>
         </author>
-        <link href="https://imwin.org/trades.html"/>
-        <id>https://imwin.org/trades.html</id>
+        <link href="https://imwin.org/ru-guo-zheng-que-cao-zuo-qi-huo.html"/>
+        <id>https://imwin.org/ru-guo-zheng-que-cao-zuo-qi-huo.html</id>
             <category term="Trades"/>
 
-        <updated>2023-07-25T07:52:14+08:00</updated>
+        <updated>2023-07-26T04:43:54+08:00</updated>
             <summary>
                 <![CDATA[
                     trades
@@ -192,12 +192,12 @@
         <link href="https://imwin.org/about.html"/>
         <id>https://imwin.org/about.html</id>
 
-        <updated>2023-07-25T04:33:06+08:00</updated>
+        <updated>2023-07-26T04:43:23+08:00</updated>
             <summary>
                 <![CDATA[
                     
   <div class="post__toc">
-    <h3>fdafadfasdf<br>dfa<br><br></h3>
+    <h3>这是一个测试页面，还没有正式发布<br><br></h3>
     <ul>
       
     </ul>
@@ -217,7 +217,7 @@
             <![CDATA[
                 
   <div class="post__toc">
-    <h3>fdafadfasdf<br>dfa<br><br></h3>
+    <h3>这是一个测试页面，还没有正式发布<br><br></h3>
     <ul>
       
     </ul>
