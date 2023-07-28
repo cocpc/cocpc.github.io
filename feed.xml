@@ -3,7 +3,7 @@
     <title>I&#x27;m Win!</title>
     <link href="https://imwin.org/feed.xml" rel="self" />
     <link href="https://imwin.org" />
-    <updated>2023-07-26T04:43:54+08:00</updated>
+    <updated>2023-07-26T04:43:23+08:00</updated>
     <author>
         <name>Winrich</name>
     </author>
@@ -117,28 +117,6 @@
 <br>
 <br>
   </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>如果正确操作期货</title>
-        <author>
-            <name>Winrich</name>
-        </author>
-        <link href="https://imwin.org/ru-guo-zheng-que-cao-zuo-qi-huo.html"/>
-        <id>https://imwin.org/ru-guo-zheng-que-cao-zuo-qi-huo.html</id>
-            <category term="Trades"/>
-
-        <updated>2023-07-26T04:43:54+08:00</updated>
-            <summary>
-                <![CDATA[
-                    trades
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>trades</p>
-
             ]]>
         </content>
     </entry>
