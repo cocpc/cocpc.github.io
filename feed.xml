@@ -3,7 +3,7 @@
     <title>I&#x27;m Win!</title>
     <link href="https://imwin.org/feed.xml" rel="self" />
     <link href="https://imwin.org" />
-    <updated>2023-07-30T08:26:57+08:00</updated>
+    <updated>2023-07-30T08:46:03+08:00</updated>
     <author>
         <name>Winrich</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://imwin.org/about-me.html"/>
         <id>https://imwin.org/about-me.html</id>
+        <media:content url="https://imwin.org/media/posts/15/andrew-neel-cckf4TsHAuw-unsplash.jpg" medium="image" />
 
-        <updated>2023-07-30T08:26:57+08:00</updated>
+        <updated>2023-07-30T08:46:03+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://imwin.org/media/posts/15/andrew-neel-cckf4TsHAuw-unsplash.jpg" alt="" />
                     Hello, everyone! I am Winrich and welcome to my blog. I was born in a small city in central China, and I have faced various challenges and difficulties in my family. When I was around six years old, my parents lost their jobs, and then&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://imwin.org/media/posts/15/andrew-neel-cckf4TsHAuw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Hello, everyone! I am Winrich and welcome to my blog.</p>
 <h2 id="my-story">My Story</h2>
 <p>I was born in a small city in central China, and I have faced various challenges and difficulties in my family. When I was around six years old, my parents lost their jobs, and then my father suffered a stroke, resulting in partial paralysis. Growing up in such an environment, I felt a sense of unease and confusion about life.</p>
