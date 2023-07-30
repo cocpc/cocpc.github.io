@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://imwin.org/about-me.html",
+            "url": "https://imwin.org/about-me.html",
+            "title": "About Me",
+            "summary": "About Me Hello, everyone! I am Winrich and welcome to my blog. I was born in a small city in central China, and I have faced various challenges and difficulties in my family. When I was around six years old, my parents lost their jobs,&hellip;",
+            "content_html": "<h1 id=\"about-me\">About Me</h1>\n<p>Hello, everyone! I am Winrich and welcome to my blog.</p>\n<h2 id=\"my-story\">My Story</h2>\n<p>I was born in a small city in central China, and I have faced various challenges and difficulties in my family. When I was around six years old, my parents lost their jobs, and then my father suffered a stroke, resulting in partial paralysis. Growing up in such an environment, I felt a sense of unease and confusion about life.</p>\n<p>My childhood memories have become quite blurry, but I still vividly remember a moment in the fourth grade when I was punished by the teacher for being late and mocked by my classmates. It was during that time that I learned to hide my anxiety and put on a carefree facade. However, the teacher’s words - “Shake your leg in front of your disabled father” - left me disheartened and made me lose my gratitude towards the world.</p>\n<p>During my adolescence, I went through a period of waywardness, skipping classes, and even attempting dangerous activities. After experiencing a series of setbacks, I developed an interest in computers and started learning web design and programming languages.</p>\n<h2 id=\"investment-and-trading\">Investment and Trading</h2>\n<p>In 2007, I began to explore the world of futures trading, and through trial and error, I gradually understood the complexities of investment and trading. However, the initial experiences were full of failures and losses, leading me to realize that investing is not a mere game but an art that requires serious study and careful planning.</p>\n<p>After a series of ups and downs, I grew into an investor and developed my own “Cycle Trading Rules.” During a period of introspection and contemplation, my understanding of trading and my mentality underwent a qualitative transformation.</p>\n<h2 id=\"about-this-blog\">About This Blog</h2>\n<p>This blog serves as a record of my investment and trading journey and also as a platform to share my experiences and insights with readers. Through sharing my stories and insights, I hope to motivate more people to embark on the path of investment and become better traders.</p>\n<p>The domain name of this blog is “imwin.org,” which symbolizes “I’m a winner,” and serves as a proud declaration of my trading journey. Through this blog, I hope to connect with readers, engage in discussions about the world of investment, and grow and progress together.</p>\n<h2 id=\"about-winrich\">About “Winrich”</h2>\n<p>“Winrich” is the English name I have chosen for myself. “Win” represents victory and success, while “rich” symbolizes wealth and abundance. For me, this name is not only a personal aspiration but also a constant reminder to maintain a positive mindset and focused spirit in my trading endeavors.</p>\n<h2 id=\"contact-me\">Contact Me</h2>\n<p>If you are interested in my stories and trading experiences or have any questions and suggestions, feel free to reach out to me. You can contact me via email at <a href=\"mailto:your.email@example.com\">your.email@example.com</a> or find me on social media. Looking forward to connecting with you!</p>\n<p>Thank you for visiting my blog, and I hope you find valuable information and inspiration here!</p>\n",
+            "author": {
+                "name": "Winrich"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-30T08:24:35+08:00",
+            "date_modified": "2023-07-30T08:24:35+08:00"
+        },
+        {
             "id": "https://imwin.org/winrich-the-journey-from-ups-and-downs-to-a-winner-in-cyclical-trading.html",
             "url": "https://imwin.org/winrich-the-journey-from-ups-and-downs-to-a-winner-in-cyclical-trading.html",
             "title": "Winrich: The Journey from Ups and Downs to a Winner in Cyclical Trading",
@@ -40,20 +54,6 @@
             ],
             "date_published": "2023-07-26T00:29:48+08:00",
             "date_modified": "2023-07-29T14:54:37+08:00"
-        },
-        {
-            "id": "https://imwin.org/about.html",
-            "url": "https://imwin.org/about.html",
-            "title": "About",
-            "summary": "\n  <div class=\"post__toc\">\n    <h3>这是一个测试页面，还没有正式发布<br><br></h3>\n    <ul>\n      \n    </ul>\n  </div>\n  \n<pre class=\"line-numbers  language-html\"><code>fadfadsfdsafadsvavdsafadfadsf</code></pre>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      \n    </div>\n  </div>\n",
-            "content_html": "\n  <div class=\"post__toc\">\n    <h3>这是一个测试页面，还没有正式发布<br><br></h3>\n    <ul>\n      \n    </ul>\n  </div>\n  \n<pre class=\"line-numbers  language-html\"><code>fadfadsfdsafadsvavdsafadfadsf</code></pre>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      \n    </div>\n  </div>\n\n\n  <ul>\n    <li>dcfsaf</li><li>adsfdsfas</li><li>fadsfasf</li><li>asdfasdf</li><li>asdfas</li><li><br></li>\n  </ul>\n<div>html  <html>\n\n</div>\n\n  <p>\n    dsfdasfdasfadsf<br>dasfadsfa<br>sdf<br>asdfas<br>\n  </p>",
-            "author": {
-                "name": "Winrich"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-07-22T02:28:32+08:00",
-            "date_modified": "2023-07-26T04:43:23+08:00"
         }
     ]
 }
