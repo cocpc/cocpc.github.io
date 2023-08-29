@@ -158,6 +158,69 @@
 
 
 
+         <div class="post__comments">
+            <div class="wrapper">
+               <div class="comments">
+	            <div class="comments-wrapper">
+	               	
+			<h4>
+		        Comments
+		    </h4>
+	    
+					
+					<div id="disqus_thread"></div>
+					<noscript>
+						Please enable JS to use the comments form.
+					</noscript>
+					
+					<script type="text/javascript">
+						var disqus_config = function () {
+							this.page.url = 'https://imwin.org/about-me/';
+							this.page.identifier = '1'; 
+							this.language = 'zh-cn';
+						};
+						
+						
+				var disqus_element_to_check = document.getElementById('disqus_thread');
+
+				if ('IntersectionObserver' in window) {
+					var iObserver = new IntersectionObserver(
+						(entries, observer) => {
+							entries.forEach(entry => {
+								if (entry.intersectionRatio >= 0.1) {
+									(function () {
+										var d = document, s = d.createElement('script');
+										s.src = 'https://'+('winrich.disqus.com').trim()+'.disqus.com/embed.js';
+										s.setAttribute('data-timestamp', +new Date());
+										(d.head || d.body).appendChild(s);
+									})();
+									observer.unobserve(entry.target);
+								}
+							});
+						},
+						{
+							threshold: [0, 0.2, 0.5, 1]
+						}
+					);
+
+					iObserver.observe(disqus_element_to_check);
+				} else {
+					(function () {
+						var d = document, s = d.createElement('script');
+						s.src = 'https://'+('winrich.disqus.com').trim()+'.disqus.com/embed.js';
+						s.setAttribute('data-timestamp', +new Date());
+						(d.head || d.body).appendChild(s);
+					})();
+				}
+			
+					</script>
+					<script type="text/javascript">
+						
+					</script>
+				</div>
+			</div>
+            </div>
+         </div>
 
 
 </main>
