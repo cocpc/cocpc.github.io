@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Winrich&#x27;s Blog!</title>
+    <title>I&#x27;m Win!</title>
     <link href="https://imwin.org/feed.xml" rel="self" />
     <link href="https://imwin.org" />
     <updated>2023-08-29T08:17:53+08:00</updated>
     <author>
-        <name>Winrcih</name>
+        <name>Winrich</name>
     </author>
     <id>https://imwin.org</id>
 
     <entry>
         <title>About Me</title>
         <author>
-            <name>Winrcih</name>
+            <name>Winrich</name>
         </author>
         <link href="https://imwin.org/about-me/"/>
         <id>https://imwin.org/about-me/</id>
