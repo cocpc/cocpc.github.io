@@ -1,33 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>I&#x27;m Win!</title>
+    <title>Winrich&#x27;s Blog!</title>
     <link href="https://imwin.org/feed.xml" rel="self" />
     <link href="https://imwin.org" />
-    <updated>2023-07-30T12:46:54+08:00</updated>
+    <updated>2023-08-29T08:17:53+08:00</updated>
     <author>
-        <name>Winrich</name>
+        <name>Winrcih</name>
     </author>
     <id>https://imwin.org</id>
 
     <entry>
         <title>About Me</title>
         <author>
-            <name>Winrich</name>
+            <name>Winrcih</name>
         </author>
         <link href="https://imwin.org/about-me.html"/>
         <id>https://imwin.org/about-me.html</id>
-        <media:content url="https://imwin.org/media/posts/15/andrew-neel-cckf4TsHAuw-unsplash.jpg" medium="image" />
 
-        <updated>2023-07-30T12:46:54+08:00</updated>
+        <updated>2023-08-29T08:17:53+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://imwin.org/media/posts/15/andrew-neel-cckf4TsHAuw-unsplash.jpg" alt="" />
                     Hello, everyone! I am Winrich and welcome to my blog. I was born in a small city in central China, and I have faced various challenges and difficulties in my family. When I was around six years old, my parents lost their jobs, and then&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://imwin.org/media/posts/15/andrew-neel-cckf4TsHAuw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Hello, everyone! I am Winrich and welcome to my blog.</p>
 <h2 id="my-story">My Story</h2>
 <p>I was born in a small city in central China, and I have faced various challenges and difficulties in my family. When I was around six years old, my parents lost their jobs, and then my father suffered a stroke, resulting in partial paralysis. Growing up in such an environment, I felt a sense of unease and confusion about life.</p>
@@ -42,155 +39,9 @@
 <h2 id="about-winrich">About “Winrich”</h2>
 <p>“Winrich” is the English name I have chosen for myself. “Win” represents victory and success, while “rich” symbolizes wealth and abundance. For me, this name is not only a personal aspiration but also a constant reminder to maintain a positive mindset and focused spirit in my trading endeavors.</p>
 <h2 id="contact-me">Contact Me</h2>
-<p>If you are interested in my stories and trading experiences or have any questions and suggestions, feel free to reach out to me. You can contact me via email at <a href="mailto:blog@imwin.org">blog@imwin.org</a> or find me on social media. Looking forward to connecting with you!</p>
+<p>If you are interested in my stories and trading experiences or have any questions and suggestions, feel free to reach out to me. You can contact me via email at <a href="mailto:blog@imwin.org">blog@imwin.org</a>  or find me on social media. Looking forward to connecting with you!</p>
 <p>Thank you for visiting my blog, and I hope you find valuable information and inspiration here!</p>
 
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Winrich: The Journey from Ups and Downs to a Winner in Cyclical Trading</title>
-        <author>
-            <name>Winrich</name>
-        </author>
-        <link href="https://imwin.org/winrich-the-journey-from-ups-and-downs-to-a-winner-in-cyclical-trading.html"/>
-        <id>https://imwin.org/winrich-the-journey-from-ups-and-downs-to-a-winner-in-cyclical-trading.html</id>
-        <media:content url="https://imwin.org/media/posts/2/alex-jiang-h4mxRonSVRI-unsplash-2.jpg" medium="image" />
-            <category term="Blog"/>
-
-        <updated>2023-07-29T14:51:07+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://imwin.org/media/posts/2/alex-jiang-h4mxRonSVRI-unsplash-2.jpg" alt="" />
-                    Hello everyone, I am Winrich. In this BLOG, I will share my growth journey, investment experience, and the new phase of cyclical trading. It is a story about challenges, struggles, and growth, hoping to inspire and enlighten everyone. I started to explore futures trading in&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://imwin.org/media/posts/2/alex-jiang-h4mxRonSVRI-unsplash-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Hello everyone, I am Winrich. In this BLOG, I will share my growth journey, investment experience, and the new phase of cyclical trading. It is a story about challenges, struggles, and growth, hoping to inspire and enlighten everyone.</p>
-<p>I started to explore futures trading in 2007. At that time, I knew nothing about investing and only had a basic understanding of the futures market. However, my curiosity and passion drove me to continue exploring, hoping to find a suitable trading approach for myself.</p>
-<p>After years of trial and error, I arrived at October 2020, attempting to engage in trading. Due to the lack of systematic trading methods and plans, I suffered heavy losses. This experience made me realize that investment is not a simple game but an art that requires serious learning and meticulous planning.</p>
-<p>In July 2021, I decided to enter the stage of technical advancement. I delved into the study and research of futures trading techniques, constantly trying different trading methods and strategies, learning from experience and lessons. No longer blindly following the crowd, I began to form my own trading philosophy and gradually found a suitable trading approach.</p>
-<p>With the arrival of 2022, I experienced a psychological transformation. I learned to control emotions and mentality, becoming more composed in the face of trading fluctuations and pressures. This change in mindset not only led to better performance in trading but also made me more confident and resolute in life.</p>
-<p>However, the above content is not the entirety of my story. In July 2023, I set foot on the trading path once again. I decided to record this new trading journey on my blog, sharing with readers every trade, every thought, and every insight. I will delve into my Cyclical Trading Principles and share the challenges and gains in trading with everyone.</p>
-<p>This is a brand-new phase, and I know that the trading journey may still encounter setbacks and challenges. Nevertheless, I will face everything with a positive attitude. I believe that through recording and sharing my trading journey, I can become a better investor and a true winner.</p>
-<p>Thank you for reading my BLOG! Looking forward to witnessing together, let us continuously progress and surpass on the path of investment!</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Windows 10 Free Activation </title>
-        <author>
-            <name>Winrich</name>
-        </author>
-        <link href="https://imwin.org/windows-10-free-activation.html"/>
-        <id>https://imwin.org/windows-10-free-activation.html</id>
-        <media:content url="https://imwin.org/media/posts/14/boliviainteligente-wIBDrEv73xY-unsplash.jpg" medium="image" />
-            <category term="Other"/>
-
-        <updated>2023-07-29T14:54:37+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://imwin.org/media/posts/14/boliviainteligente-wIBDrEv73xY-unsplash.jpg" alt="" />
-                    By command prompt Step 1: Click on the start button, search for “cmd” then Open Command Prompt (cmd) as administrator. The following is the list of Windows 10 Volume license keys. Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM Home Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH Home Country Specific: PVMJN-6DFY6–9CCP6–7BKTT-D3WVR Professional:&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://imwin.org/media/posts/14/boliviainteligente-wIBDrEv73xY-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    By command prompt
-<br>
-<br>Step 1: Click on the start button, search for “cmd” then Open Command Prompt (cmd) as administrator.<br><br>
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://imwin.org/media/posts/14/1.webp" height="573" width="690" alt=""  sizes="100vw" srcset="https://imwin.org/media/posts/14/responsive/1-xs.webp 300w ,https://imwin.org/media/posts/14/responsive/1-sm.webp 480w ,https://imwin.org/media/posts/14/responsive/1-md.webp 768w ,https://imwin.org/media/posts/14/responsive/1-lg.webp 1024w ,https://imwin.org/media/posts/14/responsive/1-xl.webp 1360w ,https://imwin.org/media/posts/14/responsive/1-2xl.webp 1600w">
-      
-    </figure>
-
-  <p>
-    The following is the list of Windows 10 Volume license keys.
-<br>
-<br>Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
-<br>Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
-<br>Home Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
-<br>Home Country Specific: PVMJN-6DFY6–9CCP6–7BKTT-D3WVR
-<br>Professional: W269N-WFGWX-YVC9B-4J6C9-T83GX
-<br>Professional N: MH37W-N47XK-V7XM9-C7227-GCQG9
-<br>Education: NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
-<br>Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
-<br>Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
-<br>Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
-<br>
-<br>Step 2: Install KMS client key
-<br>
-<br>Type this command (note: replace yourlicensekey according to your windows edition license key given above.)
-<br>
-<br>slmgr /ipk yourlicensekey<br><br>
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://imwin.org/media/posts/14/2.webp" height="155" width="531" alt=""  sizes="100vw" srcset="https://imwin.org/media/posts/14/responsive/2-xs.webp 300w ,https://imwin.org/media/posts/14/responsive/2-sm.webp 480w ,https://imwin.org/media/posts/14/responsive/2-md.webp 768w ,https://imwin.org/media/posts/14/responsive/2-lg.webp 1024w ,https://imwin.org/media/posts/14/responsive/2-xl.webp 1360w ,https://imwin.org/media/posts/14/responsive/2-2xl.webp 1600w">
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://imwin.org/media/posts/14/3.webp" height="148" width="434" alt=""  sizes="100vw" srcset="https://imwin.org/media/posts/14/responsive/3-xs.webp 300w ,https://imwin.org/media/posts/14/responsive/3-sm.webp 480w ,https://imwin.org/media/posts/14/responsive/3-md.webp 768w ,https://imwin.org/media/posts/14/responsive/3-lg.webp 1024w ,https://imwin.org/media/posts/14/responsive/3-xl.webp 1360w ,https://imwin.org/media/posts/14/responsive/3-2xl.webp 1600w">
-      
-    </figure>
-
-  <p>
-    Set KMS machine address
-<br>
-<br>Use the command “slmgr /skms kms8.msguides.com” to connect to my KMS server.<br><br>
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://imwin.org/media/posts/14/4.webp" height="137" width="507" alt=""  sizes="100vw" srcset="https://imwin.org/media/posts/14/responsive/4-xs.webp 300w ,https://imwin.org/media/posts/14/responsive/4-sm.webp 480w ,https://imwin.org/media/posts/14/responsive/4-md.webp 768w ,https://imwin.org/media/posts/14/responsive/4-lg.webp 1024w ,https://imwin.org/media/posts/14/responsive/4-xl.webp 1360w ,https://imwin.org/media/posts/14/responsive/4-2xl.webp 1600w">
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://imwin.org/media/posts/14/5.webp" height="148" width="480" alt=""  sizes="100vw" srcset="https://imwin.org/media/posts/14/responsive/5-xs.webp 300w ,https://imwin.org/media/posts/14/responsive/5-sm.webp 480w ,https://imwin.org/media/posts/14/responsive/5-md.webp 768w ,https://imwin.org/media/posts/14/responsive/5-lg.webp 1024w ,https://imwin.org/media/posts/14/responsive/5-xl.webp 1360w ,https://imwin.org/media/posts/14/responsive/5-2xl.webp 1600w">
-      
-    </figure>
-
-  <p>
-    Activate your Windows
-<br>
-<br>The last step is to activate your Windows using the command “slmgr /ato”.<br><br>
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://imwin.org/media/posts/14/6.webp" height="168" width="509" alt=""  sizes="100vw" srcset="https://imwin.org/media/posts/14/responsive/6-xs.webp 300w ,https://imwin.org/media/posts/14/responsive/6-sm.webp 480w ,https://imwin.org/media/posts/14/responsive/6-md.webp 768w ,https://imwin.org/media/posts/14/responsive/6-lg.webp 1024w ,https://imwin.org/media/posts/14/responsive/6-xl.webp 1360w ,https://imwin.org/media/posts/14/responsive/6-2xl.webp 1600w">
-      
-    </figure>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://imwin.org/media/posts/14/7.webp" height="178" width="287" alt=""  sizes="100vw" srcset="https://imwin.org/media/posts/14/responsive/7-xs.webp 300w ,https://imwin.org/media/posts/14/responsive/7-sm.webp 480w ,https://imwin.org/media/posts/14/responsive/7-md.webp 768w ,https://imwin.org/media/posts/14/responsive/7-lg.webp 1024w ,https://imwin.org/media/posts/14/responsive/7-xl.webp 1360w ,https://imwin.org/media/posts/14/responsive/7-2xl.webp 1600w">
-      
-    </figure>
-
-  <p>
-    Now check the activation status again.
-<br>
-<br><br>
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://imwin.org/media/posts/14/8.webp" height="447" width="644" alt=""  sizes="100vw" srcset="https://imwin.org/media/posts/14/responsive/8-xs.webp 300w ,https://imwin.org/media/posts/14/responsive/8-sm.webp 480w ,https://imwin.org/media/posts/14/responsive/8-md.webp 768w ,https://imwin.org/media/posts/14/responsive/8-lg.webp 1024w ,https://imwin.org/media/posts/14/responsive/8-xl.webp 1360w ,https://imwin.org/media/posts/14/responsive/8-2xl.webp 1600w">
-      
-    </figure>
-
-  <p>
-    Windows 10 is activated successfully.
-<br>
-<br>
-  </p>
             ]]>
         </content>
     </entry>
