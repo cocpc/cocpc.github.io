@@ -3,7 +3,7 @@
     <title>I&#x27;m Win!</title>
     <link href="https://imwin.org/feed.xml" rel="self" />
     <link href="https://imwin.org" />
-    <updated>2023-08-31T19:12:02+08:00</updated>
+    <updated>2023-08-31T19:17:57+08:00</updated>
     <author>
         <name>Winrich</name>
     </author>
@@ -18,15 +18,15 @@
         <id>https://imwin.org/tong-guo-tian-jia-hostjie-jue-emby-jellyfin-tmmgua-bu-dong-de-wen-ti/</id>
             <category term="收藏夹"/>
 
-        <updated>2023-08-31T19:12:02+08:00</updated>
+        <updated>2023-08-31T19:17:57+08:00</updated>
             <summary>
                 <![CDATA[
-                    通过https://www.ipaddress.com，输入api.themoviedb.org或api.tmdb.org获取真实IP地址 在hosts文件添加： 13.224.161.90 api.themoviedb.org 104.16.61.155 image.themoviedb.org 13.35.67.86 api.themoviedb.org 54.192.151.79 www.themoviedb.org 13.225.89.239 api.thetvdb.com 13.249.175.212 api.thetvdb.com 13.35.161.120 api.thetvdb.com 13.226.238.76 api.themoviedb.org 13.35.7.102 api.themoviedb.org 13.225.103.26 api.themoviedb.org 13.226.191.85 api.themoviedb.org 13.225.103.110 api.themoviedb.org 52.85.79.89 api.themoviedb.org 13.225.41.40 api.themoviedb.org 13.226.251.88 api.themoviedb.org 185.199.110.133 raw.github.com 185.199.110.133 raw.githubusercontent.com 140.82.114.4 github.com 如果使用docker的话直接在控制台输入： echo 13.224.161.90 api.themoviedb.org &gt;&gt; /etc/hosts echo&hellip;
+                    通过 https://www.ipaddress.com 输入api.themoviedb.org或api.tmdb.org获取真实IP地址 在hosts文件添加： 13.224.161.90 api.themoviedb.org 104.16.61.155 image.themoviedb.org 13.35.67.86 api.themoviedb.org 54.192.151.79 www.themoviedb.org 13.225.89.239 api.thetvdb.com 13.249.175.212 api.thetvdb.com 13.35.161.120 api.thetvdb.com 13.226.238.76 api.themoviedb.org 13.35.7.102 api.themoviedb.org 13.225.103.26 api.themoviedb.org 13.226.191.85 api.themoviedb.org 13.225.103.110 api.themoviedb.org 52.85.79.89 api.themoviedb.org 13.225.41.40 api.themoviedb.org 13.226.251.88 api.themoviedb.org 185.199.110.133 raw.github.com 185.199.110.133 raw.githubusercontent.com 140.82.114.4 github.com 如果使用docker的话直接在控制台输入： echo 13.224.161.90 api.themoviedb.org &gt;&gt;&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>通过<a href="https://www.ipaddress.com%EF%BC%8C%E8%BE%93%E5%85%A5api.themoviedb.org%E6%88%96api.tmdb.org%E8%8E%B7%E5%8F%96%E7%9C%9F%E5%AE%9EIP%E5%9C%B0%E5%9D%80">https://www.ipaddress.com，输入api.themoviedb.org或api.tmdb.org获取真实IP地址</a></p>
+                <p>通过 <a href="https://www.ipaddress.com">https://www.ipaddress.com</a> 输入<code>api.themoviedb.org</code>或<code>api.tmdb.org</code>获取真实IP地址</p>
 <p>在hosts文件添加：</p>
 <pre><code>13.224.161.90 api.themoviedb.org 
 104.16.61.155 image.themoviedb.org 
@@ -45,7 +45,7 @@
 13.226.251.88 api.themoviedb.org 
 185.199.110.133 raw.github.com 
 185.199.110.133 raw.githubusercontent.com 
-140.82.114.4    github.com 
+140.82.114.4 github.com 
 </code></pre>
 <p>如果使用docker的话直接在控制台输入：</p>
 <pre><code>echo 13.224.161.90 api.themoviedb.org &gt;&gt; /etc/hosts
@@ -65,7 +65,7 @@ echo 13.225.41.40 api.themoviedb.org &gt;&gt; /etc/hosts
 echo 13.226.251.88 api.themoviedb.org &gt;&gt; /etc/hosts
 echo 185.199.110.133 raw.github.com &gt;&gt; /etc/hosts
 echo 185.199.110.133 raw.githubusercontent.com &gt;&gt; /etc/hosts
-echo 140.82.114.4    github.com &gt;&gt; /etc/hosts
+echo 140.82.114.4 github.com &gt;&gt; /etc/hosts
 </code></pre>
 
             ]]>
