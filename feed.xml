@@ -3,12 +3,366 @@
     <title>I&#x27;m Win!</title>
     <link href="https://imwin.org/feed.xml" rel="self" />
     <link href="https://imwin.org" />
-    <updated>2023-08-31T19:01:58+08:00</updated>
+    <updated>2023-08-31T19:12:02+08:00</updated>
     <author>
         <name>Winrich</name>
     </author>
     <id>https://imwin.org</id>
 
+    <entry>
+        <title>通过添加HOST解决emby jellyfin TMM刮不动的问题</title>
+        <author>
+            <name>Winrich</name>
+        </author>
+        <link href="https://imwin.org/tong-guo-tian-jia-hostjie-jue-emby-jellyfin-tmmgua-bu-dong-de-wen-ti/"/>
+        <id>https://imwin.org/tong-guo-tian-jia-hostjie-jue-emby-jellyfin-tmmgua-bu-dong-de-wen-ti/</id>
+            <category term="收藏夹"/>
+
+        <updated>2023-08-31T19:12:02+08:00</updated>
+            <summary>
+                <![CDATA[
+                    通过https://www.ipaddress.com，输入api.themoviedb.org或api.tmdb.org获取真实IP地址 在hosts文件添加： 13.224.161.90 api.themoviedb.org 104.16.61.155 image.themoviedb.org 13.35.67.86 api.themoviedb.org 54.192.151.79 www.themoviedb.org 13.225.89.239 api.thetvdb.com 13.249.175.212 api.thetvdb.com 13.35.161.120 api.thetvdb.com 13.226.238.76 api.themoviedb.org 13.35.7.102 api.themoviedb.org 13.225.103.26 api.themoviedb.org 13.226.191.85 api.themoviedb.org 13.225.103.110 api.themoviedb.org 52.85.79.89 api.themoviedb.org 13.225.41.40 api.themoviedb.org 13.226.251.88 api.themoviedb.org 185.199.110.133 raw.github.com 185.199.110.133 raw.githubusercontent.com 140.82.114.4 github.com 如果使用docker的话直接在控制台输入： echo 13.224.161.90 api.themoviedb.org &gt;&gt; /etc/hosts echo&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>通过<a href="https://www.ipaddress.com%EF%BC%8C%E8%BE%93%E5%85%A5api.themoviedb.org%E6%88%96api.tmdb.org%E8%8E%B7%E5%8F%96%E7%9C%9F%E5%AE%9EIP%E5%9C%B0%E5%9D%80">https://www.ipaddress.com，输入api.themoviedb.org或api.tmdb.org获取真实IP地址</a></p>
+<p>在hosts文件添加：</p>
+<pre><code>13.224.161.90 api.themoviedb.org 
+104.16.61.155 image.themoviedb.org 
+13.35.67.86 api.themoviedb.org 
+54.192.151.79 www.themoviedb.org 
+13.225.89.239 api.thetvdb.com 
+13.249.175.212 api.thetvdb.com 
+13.35.161.120 api.thetvdb.com 
+13.226.238.76 api.themoviedb.org 
+13.35.7.102 api.themoviedb.org 
+13.225.103.26 api.themoviedb.org 
+13.226.191.85 api.themoviedb.org 
+13.225.103.110 api.themoviedb.org 
+52.85.79.89 api.themoviedb.org 
+13.225.41.40 api.themoviedb.org 
+13.226.251.88 api.themoviedb.org 
+185.199.110.133 raw.github.com 
+185.199.110.133 raw.githubusercontent.com 
+140.82.114.4    github.com 
+</code></pre>
+<p>如果使用docker的话直接在控制台输入：</p>
+<pre><code>echo 13.224.161.90 api.themoviedb.org &gt;&gt; /etc/hosts
+echo 104.16.61.155 image.themoviedb.org &gt;&gt; /etc/hosts
+echo 13.35.67.86 api.themoviedb.org &gt;&gt; /etc/hosts
+echo 54.192.151.79 www.themoviedb.org &gt;&gt; /etc/hosts
+echo 13.225.89.239 api.thetvdb.com &gt;&gt; /etc/hosts
+echo 13.249.175.212 api.thetvdb.com &gt;&gt; /etc/hosts
+echo 13.35.161.120 api.thetvdb.com &gt;&gt; /etc/hosts
+echo 13.226.238.76 api.themoviedb.org &gt;&gt; /etc/hosts
+echo 13.35.7.102 api.themoviedb.org &gt;&gt; /etc/hosts
+echo 13.225.103.26 api.themoviedb.org &gt;&gt; /etc/hosts
+echo 13.226.191.85 api.themoviedb.org &gt;&gt; /etc/hosts
+echo 13.225.103.110 api.themoviedb.org &gt;&gt; /etc/hosts
+echo 52.85.79.89 api.themoviedb.org &gt;&gt; /etc/hosts
+echo 13.225.41.40 api.themoviedb.org &gt;&gt; /etc/hosts
+echo 13.226.251.88 api.themoviedb.org &gt;&gt; /etc/hosts
+echo 185.199.110.133 raw.github.com &gt;&gt; /etc/hosts
+echo 185.199.110.133 raw.githubusercontent.com &gt;&gt; /etc/hosts
+echo 140.82.114.4    github.com &gt;&gt; /etc/hosts
+</code></pre>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>公共加密 DNS</title>
+        <author>
+            <name>Winrich</name>
+        </author>
+        <link href="https://imwin.org/gong-gong-jia-mi-dns/"/>
+        <id>https://imwin.org/gong-gong-jia-mi-dns/</id>
+            <category term="收藏夹"/>
+
+        <updated>2023-08-31T19:11:02+08:00</updated>
+            <summary>
+                <![CDATA[
+                    收集一些较为有名的 IPv4 公共 DNS，包括传统 DNS 和 DoH/DoT/DoQ 加密 DNS。国内公共的加密 DNS 一般只保证不劫持解析结果，国外公共加密 DNS，像 Cloudflare、谷歌等多数受到了阻断，可能无法正常使用，具体可以添加后测试。 腾讯 DNS 基于 BGP Anycast 技术，不论用户身在何地，都可就近访问服务。支持谷歌 ECS 协议，配合 DNSPod 权威解析，可以给用户提供出最准确的解析结果，承诺不劫持解析结果。 阿里 DNS 线路支持包括电信、移动、联通、鹏博士、广电网、教育网及海外 150 个国家或地域，支持用户 ECS 扩展技术，智能解析；支持 DoT/DoH 协议，保护用户隐私，安全防劫持。 iQDNS 本着隐私至上的根本成立，任何终端访问 iQDNS 的全部不记录日志，并且由网络层得到的网络请求 Logs 也会 1 小时清空一次。为了保持服务稳定，本服务已经设置了黑名单 屏蔽了对 gov 影响极差的网站。（返回空地址，无污染）不会影响正常人使用。本 DNS 保证支持期限为&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>收集一些较为有名的 IPv4 公共 DNS，包括传统 DNS 和 DoH/DoT/DoQ 加密 DNS。国内公共的加密 DNS 一般只保证不劫持解析结果，国外公共加密 DNS，像 Cloudflare、谷歌等多数受到了阻断，可能无法正常使用，具体可以添加后测试。</p>
+<h2 id="1-国内公共-dns">1. 国内公共 DNS</h2>
+<h3 id="11-腾讯-dns">1.1 腾讯 DNS</h3>
+<p><a href="https://dns.pub/">腾讯 DNS</a>  基于 BGP Anycast 技术，不论用户身在何地，都可就近访问服务。支持谷歌 ECS 协议，配合 DNSPod 权威解析，可以给用户提供出最准确的解析结果，承诺不劫持解析结果。</p>
+<ol>
+<li>IPv4：119.29.29.29</li>
+<li>DoH：<a href="https://doh.pub/dns-query">https://doh.pub/dns-query</a></li>
+<li>DoH：<a href="https://1.12.12.12/dns-query">https://1.12.12.12/dns-query</a></li>
+<li>DoH：<a href="https://120.53.53.53/dns-query">https://120.53.53.53/dns-query</a></li>
+<li>DoH：<a href="https://sm2.doh.pub/dns-query">https://sm2.doh.pub/dns-query</a> (国密)</li>
+<li>DoT：dot.pub</li>
+<li>DoT：1.12.12.12</li>
+<li>DoT：120.53.53.53</li>
+</ol>
+<h3 id="12-阿里-dns">1.2 阿里 DNS</h3>
+<p><a href="https://www.alidns.com/">阿里 DNS</a>  线路支持包括电信、移动、联通、鹏博士、广电网、教育网及海外 150 个国家或地域，支持用户 ECS 扩展技术，智能解析；支持 DoT/DoH 协议，保护用户隐私，安全防劫持。</p>
+<ol>
+<li>IPv4：223.5.5.5</li>
+<li>IPv4：223.6.6.6</li>
+<li>DoH：<a href="https://223.5.5.5/dns-query">https://223.5.5.5/dns-query</a></li>
+<li>DoH：<a href="https://223.6.6.6/dns-query">https://223.6.6.6/dns-query</a></li>
+<li>DoH：<a href="https://dns.alidns.com/dns-query">https://dns.alidns.com/dns-query</a></li>
+<li>DoT：dns.alidns.com</li>
+</ol>
+<h3 id="13-360dns">1.3 360DNS</h3>
+<ol>
+<li>DoH：<a href="https://doh.360.cn/dns-query">https://doh.360.cn/dns-query</a></li>
+<li>DoT：dot.360.cn</li>
+</ol>
+<h3 id="14-cfiec-dns">1.4 CFIEC DNS</h3>
+<ol>
+<li>DoH：<a href="https://dns.cfiec.net/dns-query">https://dns.cfiec.net/dns-query</a></li>
+<li>DoT：dns.cfiec.net</li>
+</ol>
+<h3 id="15-红鱼-rubyfish-dns">1.5 红鱼 rubyfish DNS</h3>
+<ol>
+<li>DoH：<a href="https://rubyfish.cn/dns-query">https://rubyfish.cn/dns-query</a></li>
+<li>DoH：<a href="https://dns.rubyfish.cn/dns-query">https://dns.rubyfish.cn/dns-query</a></li>
+<li>DoT：dns.rubyfish.cn</li>
+</ol>
+<h3 id="16-👍iqdns">1.6 👍iQDNS</h3>
+<p><a href="https://iqdns.xyz/all.html">iQDNS</a>  本着隐私至上的根本成立，任何终端访问 iQDNS 的全部不记录日志，并且由网络层得到的网络请求 Logs 也会 1 小时清空一次。为了保持服务稳定，本服务已经设置了黑名单 屏蔽了对 gov 影响极差的网站。（返回空地址，无污染）不会影响正常人使用。本 DNS 保证支持期限为 2 年，即 2022 年 12 月 31 日。（只是保证时效 不是一定关闭）</p>
+<ol>
+<li><p>#I 节点不支持自选上游功能</p>
+</li>
+<li><p>DoH：<a href="https://i.passcloud.xyz/dns-query">https://i.passcloud.xyz/dns-query</a></p>
+</li>
+<li><p>DoT：i.passcloud.xyz:5432</p>
+</li>
+<li><p>DoQ：quic://i.passcloud.xyz:784</p>
+</li>
+<li><p>#A 节点支持自选上游功能</p>
+</li>
+<li><p>DoH：<a href="https://a.passcloud.xyz/dns-query">https://a.passcloud.xyz/dns-query</a></p>
+</li>
+<li><p>DoQ：quic://a.passcloud.xyz:784</p>
+</li>
+<li><p>DoT：tls://a.passcloud.xyz:5432</p>
+</li>
+</ol>
+<h3 id="17-台湾-quad-101">1.7 台湾 Quad 101</h3>
+<ol>
+<li>IPv4：101.101.101.101</li>
+<li>IPv4：101.102.103.104</li>
+<li>DoH：<a href="https://dns.twnic.tw/dns-query">https://dns.twnic.tw/dns-query</a></li>
+</ol>
+<h2 id="2-国外公共-dns">2. 国外公共 DNS</h2>
+<h3 id="21-google-dns">2.1 Google DNS</h3>
+<ol>
+<li>IPv4：8.8.8.8</li>
+<li>IPv4：8.8.4.4</li>
+<li>DoH：<a href="https://dns.google/dns-query">https://dns.google/dns-query</a></li>
+<li>DoT：dns.google</li>
+</ol>
+<h3 id="22-ibm-quad9">2.2 IBM Quad9</h3>
+<p><a href="https://quad9.net/service/service-addresses-and-features">Quad9 DNS</a>  服务由总部位于瑞士的 Quad9 基金会运营（IBM 是主要赞助商之一），Quad9 系统都不会记录包含您 IP 地址的数据，如果您的系统支持，Connections 可以使用加密，整个 Quad9 平台的设计符合 GDPR。</p>
+<ol>
+<li><p>#推荐：Malware Blocking、DNSSEC Validation（这是最典型的配置）</p>
+</li>
+<li><p>IPv4：9.9.9.9</p>
+</li>
+<li><p>IPv4：149.112.112.112</p>
+</li>
+<li><p>DoH：<a href="https://dns.quad9.net/dns-query">https://dns.quad9.net/dns-query</a></p>
+</li>
+<li><p>DoT：dns.quad9.net</p>
+</li>
+<li><p>#使用 ECS 保护：恶意软件阻止、DNSSEC 验证、启用 ECS</p>
+</li>
+<li><p>IPv4：9.9.9.11</p>
+</li>
+<li><p>IPv4：149.112.112.11</p>
+</li>
+<li><p>DoH：<a href="https://dns11.quad9.net/dns-query">https://dns11.quad9.net/dns-query</a></p>
+</li>
+<li><p>DoT：dns11.quad9.net</p>
+</li>
+<li><p>#不安全：没有恶意软件阻止，没有 DNSSEC 验证（仅限专家！）</p>
+</li>
+<li><p>IPv4：9.9.9.10</p>
+</li>
+<li><p>IPv4：149.112.112.10</p>
+</li>
+<li><p>DoH：<a href="https://dns10.quad9.net/dns-query">https://dns10.quad9.net/dns-query</a></p>
+</li>
+<li><p>DoT：dns10.quad9.net</p>
+</li>
+</ol>
+<h3 id="23-👍cleanbrowsing-dns">2.3 👍CleanBrowsing DNS</h3>
+<p><a href="https://cleanbrowsing.org/filters/">CleanBrowsing</a>  帮助他们在家中创建自己的家庭友好网络，为孩子创造安全在线体验。永远免费，没有跟踪。</p>
+<ol>
+<li><p>#安全保护：阻止对网络钓鱼、垃圾邮件、恶意软件和恶意域的访问。</p>
+</li>
+<li><p>IPv4：185.228.168.9</p>
+</li>
+<li><p>IPv4：185.228.169.9</p>
+</li>
+<li><p>DoH：<a href="https://doh.cleanbrowsing.org/doh/security-filter/">https://doh.cleanbrowsing.org/doh/security-filter/</a></p>
+</li>
+<li><p>DoT：dns.cleanbrowsing.org</p>
+</li>
+<li><p>#成人保护：阻止访问所有成人、恶意和网络钓鱼网站。它不会阻止代理、混合内容网站（如 Reddit）</p>
+</li>
+<li><p>IPv4：185.228.168.10</p>
+</li>
+<li><p>IPv4：185.228.169.11</p>
+</li>
+<li><p>DOH：<a href="https://doh.cleanbrowsing.org/doh/adult-filter/">https://doh.cleanbrowsing.org/doh/adult-filter/</a></p>
+</li>
+<li><p>DOT：dns.cleanbrowsing.org</p>
+</li>
+<li><p>#家庭保护:阻止访问所有成人、恶意、网络钓鱼、混合内容网站（如 Reddit）、阻止用于绕过过滤器的代理、Google、Bing 和 Youtube 设置为安全模式。</p>
+</li>
+<li><p>IPv4：185.228.168.168</p>
+</li>
+<li><p>IPv4：185.228.169.168</p>
+</li>
+<li><p>DoH：<a href="https://doh.cleanbrowsing.org/doh/family-filter/">https://doh.cleanbrowsing.org/doh/family-filter/</a></p>
+</li>
+<li><p>DoT：dns.cleanbrowsing.org</p>
+</li>
+</ol>
+<h3 id="24-👍opendns">2.4 👍OpenDNS</h3>
+<ol>
+<li>IPv4：208.67.222.222</li>
+<li>IPv4：208.67.220.220</li>
+<li>DoH：<a href="https://doh.opendns.com/dns-query">https://doh.opendns.com/dns-query</a></li>
+<li>DoH：<a href="https://doh.familyshield.opendns.com/dns-query">https://doh.familyshield.opendns.com/dns-query</a></li>
+</ol>
+<h3 id="25-cloudflare-dns">2.5 Cloudflare DNS</h3>
+<ol>
+<li>IPv4：1.0.0.1</li>
+<li>IPv4：1.1.1.1</li>
+<li>DoH：<a href="https://1.1.1.1/dns-query">https://1.1.1.1/dns-query</a></li>
+<li>DoH：<a href="https://1.0.0.1/dns-query">https://1.0.0.1/dns-query</a></li>
+<li>DoH：<a href="https://cloudflare-dns.com/dns-query">https://cloudflare-dns.com/dns-query</a></li>
+<li>DoT: one.one.one.one</li>
+<li>DoT: 1dot1dot1dot1.cloudflare-dns.com</li>
+</ol>
+<h3 id="26-adguard-dns">2.6 AdGuard DNS</h3>
+<p><a href="https://adguard-dns.io/zh_cn/public-dns.html">AdGuard DNS</a>  是屏蔽互联网广告的安全方法。它不需要您安装任何应用程序。在任何设备上都设置简单、使用便捷、免费，并且为您提供屏蔽广告、计数器、恶意网站和成人内容的功能。</p>
+<ol>
+<li><p>#无过滤，不拦截</p>
+</li>
+<li><p>IPv4：94.140.14.140</p>
+</li>
+<li><p>IPv4：94.140.15.15</p>
+</li>
+<li><p>DoH：<a href="https://dns-unfiltered.adguard.com/dns-query">https://dns-unfiltered.adguard.com/dns-query</a></p>
+</li>
+<li><p>DoT：dns-unfiltered.adguard.com</p>
+</li>
+<li><p>DoQ：dns-unfiltered.adguard.com</p>
+</li>
+<li><p>#过滤广告和跟踪</p>
+</li>
+<li><p>IPv4：94.140.14.14</p>
+</li>
+<li><p>IPv4：94.140.15.15</p>
+</li>
+<li><p>DoH：<a href="https://dns.adguard.com/dns-query">https://dns.adguard.com/dns-query</a></p>
+</li>
+<li><p>DoT：dns.adguard.com</p>
+</li>
+<li><p>DoQ：dns.adguard.com</p>
+</li>
+<li><p>#家庭过滤：开启安全搜索和安全模式选项、拦截成人内容，并且屏蔽广告和跟踪器</p>
+</li>
+<li><p>IPv4：94.140.14.15</p>
+</li>
+<li><p>IPv4：94.140.15.16</p>
+</li>
+<li><p>DoH：<a href="https://dns-family.adguard.com/dns-query">https://dns-family.adguard.com/dns-query</a></p>
+</li>
+<li><p>DoT：dns-family.adguard.com</p>
+</li>
+<li><p>DoQ：quic://dns-family.adguard.com</p>
+</li>
+</ol>
+<h3 id="27-dnssb">2.7 DNS.SB</h3>
+<ol>
+<li>IPv4：185.222.222.222</li>
+<li>IPv4：45.11.45.11</li>
+<li>DoH：<a href="https://doh.dns.sb/dns-query">https://doh.dns.sb/dns-query</a></li>
+<li>DoH：<a href="https://doh.sb/dns-query">https://doh.sb/dns-query</a></li>
+<li>DoT：dot.sb</li>
+</ol>
+<h3 id="28-powerdns">2.8 PowerDNS</h3>
+<ol>
+<li>DoH：<a href="https://doh.powerdns.org">https://doh.powerdns.org</a></li>
+</ol>
+<h3 id="29-日本-iij-dns">2.9 日本 IIJ DNS</h3>
+<ol>
+<li>DoH：<a href="https://public.dns.iij.jp/dns-query">https://public.dns.iij.jp/dns-query</a></li>
+</ol>
+<h3 id="210-日本-blahdns">2.10 日本 Blahdns</h3>
+<ol>
+<li>DoH：<a href="https://doh-jp.blahdns.com/dns-query">https://doh-jp.blahdns.com/dns-query</a></li>
+</ol>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>解决 Docker 安装 Jellyfin 封面图和部分中文字幕变方块</title>
+        <author>
+            <name>Winrich</name>
+        </author>
+        <link href="https://imwin.org/jie-jue-docker-an-zhuang-jellyfin-feng-mian-tu-he-bu-fen-zhong-wen-zi-mu-bian-fang-kuai/"/>
+        <id>https://imwin.org/jie-jue-docker-an-zhuang-jellyfin-feng-mian-tu-he-bu-fen-zhong-wen-zi-mu-bian-fang-kuai/</id>
+            <category term="收藏夹"/>
+
+        <updated>2023-08-31T19:09:20+08:00</updated>
+            <summary>
+                <![CDATA[
+                    安装 Noto Sans CJK 字体 如果你在 Docker 中安装 Jellyfin，很可能遇到下面这种情况： （封面图里的中文字变方块） （ASS 字幕里的中文字变方块） 下面来解决。 进入容器的 bash，依次输入以下命令： apt update apt install fonts-noto-cjk-extra 重启容器。 在封面图上选择“修改图片”，删除已有的封面图。然后在进入控制台-计划任务，触发“提取剧集图片”“扫描媒体库”，重新生成封面图。 这就没问题了。 在 Jellyfin 挂载的目录中，新建一个文件夹 fonts。我放在了挂载的 config 目录中。 首先下载 Noto Sans SC woff2 字体包。 解压后找到 NotoSansCJKsc-Medium.woff2 这个文件，将其复制到上面说的 fonts 目录中。 然后在控制台-播放中设置启用备用字体： 再播放试试： 字幕也没问题了。 你还可以收集更多字体放到这个目录中，丰富 ASS&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="安装-noto-sans-cjk-字体">安装 Noto Sans CJK 字体</h2>
+<p>如果你在 Docker 中安装 Jellyfin，很可能遇到下面这种情况：</p>
+<p><figure class="post__image"><img decoding="async" loading="lazy" src="https://i.typlog.com/shun/8373431987_567793.png" alt="image.png"  data-is-external-image="true"></figure></p>
+<p>（封面图里的中文字变方块）</p>
+<p><figure class="post__image"><img decoding="async" loading="lazy" src="https://i.typlog.com/shun/8373431873_693876.png" alt="image.png"  data-is-external-image="true"></figure></p>
+<p>（ASS 字幕里的中文字变方块）</p>
+<p>下面来解决。</p>
+<ol>
+<li>在容器中安装中文字体</li>
+</ol>
+<p><figure class="post__image"><img decoding="async" loading="lazy" src="https://i.typlog.com/shun/8373478039_82523.png" alt=""  data-is-external-image="true"></figure></p>
+<p>进入容器的 bash，依次输入以下命令：</p>
+<pre><code>apt update
+apt install fonts-noto-cjk-extra
+</code></pre>
+<p>重启容器。</p>
+<p>在封面图上选择“修改图片”，删除已有的封面图。然后在进入控制台-计划任务，触发“提取剧集图片”“扫描媒体库”，重新生成封面图。</p>
+<p><figure class="post__image"><img decoding="async" loading="lazy" src="https://i.typlog.com/shun/8373431148_808148.png" alt="image.png"  data-is-external-image="true"></figure></p>
+<p>这就没问题了。</p>
+<ol start="2">
+<li>为字幕添加中文备用字体</li>
+</ol>
+<p>在 Jellyfin 挂载的目录中，新建一个文件夹 fonts。我放在了挂载的 config 目录中。</p>
+<p>首先下载  <a href="https://github.com/CodePlayer/webfont-noto/raw/master/release/NotoSansCJKsc-hinted-standard.zip">Noto Sans SC woff2 字体包</a>。</p>
+<p>解压后找到  <code>NotoSansCJKsc-Medium.woff2</code>  这个文件，将其复制到上面说的 fonts 目录中。</p>
+<p>然后在控制台-播放中设置启用备用字体：</p>
+<p><figure class="post__image"><img decoding="async" loading="lazy" src="https://i.typlog.com/shun/8373430657_923401.png" alt="image.png"  data-is-external-image="true"></figure></p>
+<p>再播放试试：</p>
+<p><figure class="post__image"><img decoding="async" loading="lazy" src="https://i.typlog.com/shun/8373430459_5406475.png" alt="image.png"  data-is-external-image="true"></figure></p>
+<p>字幕也没问题了。</p>
+<p>你还可以收集更多字体放到这个目录中，丰富 ASS 特效字幕的效果。</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Linux Windows 双系统时间不一致</title>
         <author>
