@@ -3,7 +3,7 @@
     <title>I&#x27;m Win!</title>
     <link href="https://imwin.org/feed.xml" rel="self" />
     <link href="https://imwin.org" />
-    <updated>2023-09-10T00:44:43+08:00</updated>
+    <updated>2023-09-10T21:21:15+08:00</updated>
     <author>
         <name>Winrich</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://imwin.org/tong-guo-tian-jia-hostjie-jue-emby-jellyfin-tmmgua-bu-dong-de-wen-ti/</id>
             <category term="收藏夹"/>
 
-        <updated>2023-08-31T19:17:57+08:00</updated>
+        <updated>2023-09-10T21:21:15+08:00</updated>
             <summary>
                 <![CDATA[
                     通过 https://www.ipaddress.com 输入api.themoviedb.org或api.tmdb.org获取真实IP地址 在hosts文件添加： 13.224.161.90 api.themoviedb.org 104.16.61.155 image.themoviedb.org 13.35.67.86 api.themoviedb.org 54.192.151.79 www.themoviedb.org 13.225.89.239 api.thetvdb.com 13.249.175.212 api.thetvdb.com 13.35.161.120 api.thetvdb.com 13.226.238.76 api.themoviedb.org 13.35.7.102 api.themoviedb.org 13.225.103.26 api.themoviedb.org 13.226.191.85 api.themoviedb.org 13.225.103.110 api.themoviedb.org 52.85.79.89 api.themoviedb.org 13.225.41.40 api.themoviedb.org 13.226.251.88 api.themoviedb.org 185.199.110.133 raw.github.com 185.199.110.133 raw.githubusercontent.com 140.82.114.4 github.com 如果使用docker的话直接在控制台输入： echo 13.224.161.90 api.themoviedb.org &gt;&gt;&hellip;
@@ -80,7 +80,7 @@ echo 140.82.114.4 github.com &gt;&gt; /etc/hosts
         <id>https://imwin.org/gong-gong-jia-mi-dns/</id>
             <category term="收藏夹"/>
 
-        <updated>2023-08-31T19:11:02+08:00</updated>
+        <updated>2023-09-10T21:21:09+08:00</updated>
             <summary>
                 <![CDATA[
                     收集一些较为有名的 IPv4 公共 DNS，包括传统 DNS 和 DoH/DoT/DoQ 加密 DNS。国内公共的加密 DNS 一般只保证不劫持解析结果，国外公共加密 DNS，像 Cloudflare、谷歌等多数受到了阻断，可能无法正常使用，具体可以添加后测试。 腾讯 DNS 基于 BGP Anycast 技术，不论用户身在何地，都可就近访问服务。支持谷歌 ECS 协议，配合 DNSPod 权威解析，可以给用户提供出最准确的解析结果，承诺不劫持解析结果。 阿里 DNS 线路支持包括电信、移动、联通、鹏博士、广电网、教育网及海外 150 个国家或地域，支持用户 ECS 扩展技术，智能解析；支持 DoT/DoH 协议，保护用户隐私，安全防劫持。 iQDNS 本着隐私至上的根本成立，任何终端访问 iQDNS 的全部不记录日志，并且由网络层得到的网络请求 Logs 也会 1 小时清空一次。为了保持服务稳定，本服务已经设置了黑名单 屏蔽了对 gov 影响极差的网站。（返回空地址，无污染）不会影响正常人使用。本 DNS 保证支持期限为&hellip;
@@ -320,7 +320,7 @@ echo 140.82.114.4 github.com &gt;&gt; /etc/hosts
         <id>https://imwin.org/jie-jue-docker-an-zhuang-jellyfin-feng-mian-tu-he-bu-fen-zhong-wen-zi-mu-bian-fang-kuai/</id>
             <category term="收藏夹"/>
 
-        <updated>2023-08-31T19:09:20+08:00</updated>
+        <updated>2023-09-10T21:21:02+08:00</updated>
             <summary>
                 <![CDATA[
                     安装 Noto Sans CJK 字体 如果你在 Docker 中安装 Jellyfin，很可能遇到下面这种情况： （封面图里的中文字变方块） （ASS 字幕里的中文字变方块） 下面来解决。 进入容器的 bash，依次输入以下命令： apt update apt install fonts-noto-cjk-extra 重启容器。 在封面图上选择“修改图片”，删除已有的封面图。然后在进入控制台-计划任务，触发“提取剧集图片”“扫描媒体库”，重新生成封面图。 这就没问题了。 在 Jellyfin 挂载的目录中，新建一个文件夹 fonts。我放在了挂载的 config 目录中。 首先下载 Noto Sans SC woff2 字体包。 解压后找到 NotoSansCJKsc-Medium.woff2 这个文件，将其复制到上面说的 fonts 目录中。 然后在控制台-播放中设置启用备用字体： 再播放试试： 字幕也没问题了。 你还可以收集更多字体放到这个目录中，丰富 ASS&hellip;
@@ -372,7 +372,7 @@ apt install fonts-noto-cjk-extra
         <id>https://imwin.org/linux-windows-shuang-xi-tong-shi-jian-bu-yi-zhi/</id>
             <category term="收藏夹"/>
 
-        <updated>2023-08-31T19:01:58+08:00</updated>
+        <updated>2023-09-10T21:20:54+08:00</updated>
             <summary>
                 <![CDATA[
                     大家在装完 Linux 系统后，可能会出现 Linux Windows 两个系统的时间不一致，一般是相差 8 小时。下面就来分析该问题，并给出解决办法。 GMT：Greenwich Mean Time，即格林尼治标准时间，也就是世界时。GMT 以地球自转为基础的时间计量系统，但由于地球自转不均匀，导致 GMT 不精确，现在已经不再作为世界标准时间使用。 UTC：Universal Time Coordinated，即协调世界时。UTC 是以原子时秒长为基础，在时刻上尽量接近于 GMT 的一种时间计量系统。为确保 UTC 与 GMT 相差不会超过 0.9 秒，在有需要的情况下会在 UTC 内加上正或负闰秒。UTC 现在作为世界标准时间使用。 RTC：Real-Time Clock，即实时时钟，在计算机领域作为硬件时钟的简称。 世界上不同地区所在的时区是不同的，这些时区决定了当地的本地时间。比如北京处于东八区，即北京时间为 UTC + 8，如果 UTC 时间现在是上午 6 点整，那么北京时间为 14 点整。 Windows 与 Linux 看待硬件时间的方式不同。Windows&hellip;
