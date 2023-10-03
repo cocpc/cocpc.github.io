@@ -538,22 +538,22 @@ echo 140.82.114.4 github.com &gt;&gt; /etc/hosts
             <![CDATA[
                 <h2 id="安装-noto-sans-cjk-字体">安装 Noto Sans CJK 字体</h2>
 <p>如果你在 Docker 中安装 Jellyfin，很可能遇到下面这种情况：</p>
-<p><figure class="post__image"><img decoding="async" loading="lazy" src="https://i.typlog.com/shun/8373431987_567793.png" alt="image.png"  data-is-external-image="true"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://i.typlog.com/shun/8373431987_567793.png" alt="image.png"  data-is-external-image="true"></figure></p>
 <p>（封面图里的中文字变方块）</p>
-<p><figure class="post__image"><img decoding="async" loading="lazy" src="https://i.typlog.com/shun/8373431873_693876.png" alt="image.png"  data-is-external-image="true"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://i.typlog.com/shun/8373431873_693876.png" alt="image.png"  data-is-external-image="true"></figure></p>
 <p>（ASS 字幕里的中文字变方块）</p>
 <p>下面来解决。</p>
 <ol>
 <li>在容器中安装中文字体</li>
 </ol>
-<p><figure class="post__image"><img decoding="async" loading="lazy" src="https://i.typlog.com/shun/8373478039_82523.png" alt=""  data-is-external-image="true"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://i.typlog.com/shun/8373478039_82523.png" alt=""  data-is-external-image="true"></figure></p>
 <p>进入容器的 bash，依次输入以下命令：</p>
 <pre><code>apt update
 apt install fonts-noto-cjk-extra
 </code></pre>
 <p>重启容器。</p>
 <p>在封面图上选择“修改图片”，删除已有的封面图。然后在进入控制台-计划任务，触发“提取剧集图片”“扫描媒体库”，重新生成封面图。</p>
-<p><figure class="post__image"><img decoding="async" loading="lazy" src="https://i.typlog.com/shun/8373431148_808148.png" alt="image.png"  data-is-external-image="true"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://i.typlog.com/shun/8373431148_808148.png" alt="image.png"  data-is-external-image="true"></figure></p>
 <p>这就没问题了。</p>
 <ol start="2">
 <li>为字幕添加中文备用字体</li>
@@ -562,9 +562,9 @@ apt install fonts-noto-cjk-extra
 <p>首先下载  <a href="https://github.com/CodePlayer/webfont-noto/raw/master/release/NotoSansCJKsc-hinted-standard.zip">Noto Sans SC woff2 字体包</a>。</p>
 <p>解压后找到  <code>NotoSansCJKsc-Medium.woff2</code>  这个文件，将其复制到上面说的 fonts 目录中。</p>
 <p>然后在控制台-播放中设置启用备用字体：</p>
-<p><figure class="post__image"><img decoding="async" loading="lazy" src="https://i.typlog.com/shun/8373430657_923401.png" alt="image.png"  data-is-external-image="true"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://i.typlog.com/shun/8373430657_923401.png" alt="image.png"  data-is-external-image="true"></figure></p>
 <p>再播放试试：</p>
-<p><figure class="post__image"><img decoding="async" loading="lazy" src="https://i.typlog.com/shun/8373430459_5406475.png" alt="image.png"  data-is-external-image="true"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://i.typlog.com/shun/8373430459_5406475.png" alt="image.png"  data-is-external-image="true"></figure></p>
 <p>字幕也没问题了。</p>
 <p>你还可以收集更多字体放到这个目录中，丰富 ASS 特效字幕的效果。</p>
 
