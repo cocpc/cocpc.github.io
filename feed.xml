@@ -3,7 +3,7 @@
     <title>I&#x27;m Win!</title>
     <link href="https://imwin.org/feed.xml" rel="self" />
     <link href="https://imwin.org" />
-    <updated>2023-10-08T18:23:40+08:00</updated>
+    <updated>2023-10-08T18:30:47+08:00</updated>
     <author>
         <name>Winrich</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://imwin.org/wei-fen-leiandgong-juandshou-cang-jia/</id>
             <category term="收藏夹"/>
 
-        <updated>2023-10-08T18:23:40+08:00</updated>
+        <updated>2023-10-08T18:30:47+08:00</updated>
             <summary>
                 <![CDATA[
                     IP125---查IP ipleak.net---DNS泄漏查询
@@ -26,19 +26,16 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <table style="border-collapse: collapse; width: 100%; height: 582.75px;" border="1">
+                <table class="align-center" style="border-collapse: collapse; width: 100%; height: 557.719px; border-style: solid;" border="0" cellspacing="1">
 <tbody>
 <tr style="height: 50.3594px;">
 <td style="width: 31.3837%; height: 50.3594px;"><a href="https://ip125.com" target="_blank" rel="noopener noreferrer">IP125---查IP</a></td>
-<td style="width: 35.378%; height: 50.3594px;"><a href="https://ipleak.net" target="_blank" rel="noopener noreferrer">ipleak.net---DNS泄漏查询</a></td>
-<td style="width: 33.2382%; height: 50.3594px;"> </td>
+<td style="height: 50.3594px; width: 68.6163%;" colspan="2"><a href="https://ipleak.net" target="_blank" rel="noopener noreferrer">ipleak.net---DNS泄漏查询</a></td>
 </tr>
-<tr style="height: 79.1562px;">
-<td style="width: 31.3837%; height: 79.1562px;"> </td>
-<td style="width: 35.378%; height: 79.1562px;">
-<p> </p>
-</td>
-<td style="width: 33.2382%; height: 79.1562px;"> </td>
+<tr style="height: 50.3594px;">
+<td style="width: 31.3837%; height: 54.125px;"> </td>
+<td style="width: 35.378%; height: 54.125px;"> </td>
+<td style="width: 33.2382%; height: 54.125px;"> </td>
 </tr>
 <tr style="height: 50.3594px;">
 <td style="width: 31.3837%; height: 50.3594px;"> </td>
